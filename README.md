@@ -1,3 +1,10 @@
+<h1 align="center">🌍 Urban Mobility & Economic Analysis</h1>
+
+<p align="center">
+  <i>Data Analysis Project • Python • Economic Insights</i>
+</p>
+
+<hr>
 
 <h2>🧠 Overview</h2>
 
@@ -14,12 +21,12 @@ This project combines mobility and economic datasets to uncover patterns that im
 <h2>📊 Visual Insights</h2>
 
 <p align="center">
-  <img src="boxplot_delay.png" width="400"/>
-  <img src="gdp_distribution.png" width="400"/>
+  <img src="boxplot_delay.png" width="380"/>
+  <img src="gdp_distribution.png" width="380"/>
 </p>
 
 <p align="center">
-  <img src="traffic_vs_gdp.png" width="550"/>
+  <img src="traffic_vs_gdp.png" width="520"/>
 </p>
 
 <hr>
@@ -28,7 +35,7 @@ This project combines mobility and economic datasets to uncover patterns that im
 
 <ul>
   <li>Data cleaning & preprocessing (Python, Pandas)</li>
-  <li>Merged traffic + economic datasets</li>
+  <li>Data integration: merged mobility & economic datasets</li>
   <li>Exploratory Data Analysis (EDA)</li>
   <li>Correlation analysis across key indicators</li>
 </ul>
@@ -38,10 +45,10 @@ This project combines mobility and economic datasets to uncover patterns that im
 <h2>📈 Key Findings</h2>
 
 <ul>
-  <li>Traffic congestion is linked to economic activity patterns</li>
-  <li>Some cities show high congestion with low economic efficiency</li>
-  <li>Mobility inefficiencies can reflect deeper structural issues</li>
-  <li>Traffic data can act as a proxy for economic performance</li>
+  <li><b>Traffic congestion correlates with economic activity patterns</b></li>
+  <li>Cities with high congestion do not always show high efficiency</li>
+  <li>Mobility inefficiencies reflect deeper structural challenges</li>
+  <li>Traffic metrics can act as proxies for economic performance</li>
 </ul>
 
 <hr>
@@ -49,7 +56,7 @@ This project combines mobility and economic datasets to uncover patterns that im
 <h2>📌 Business Perspective</h2>
 
 <p>
-Urban mobility is not just a transportation issue — it is an economic signal.
+Urban mobility is not just a transportation issue — <b>it is an economic signal.</b>
 </p>
 
 <ul>
@@ -71,7 +78,7 @@ Python • Pandas • Matplotlib
 <h2>📁 Project Files</h2>
 
 <p>
-<code>S5 ladb_mobility_economy_project_student.ipynb</code>
+<code>S5_ladb_mobility_economy_project_student.ipynb</code>
 </p>
 
 <hr>
@@ -79,8 +86,8 @@ Python • Pandas • Matplotlib
 <h2>🎯 Final Insight</h2>
 
 <p>
-Better mobility = better economic efficiency.<br>
-Data reveals where cities are losing productivity — and where to act.
+<b>Better mobility = better economic efficiency.</b><br><br>
+Data reveals where cities are losing productivity — and where strategic intervention is needed.
 </p>
 
 <hr>
