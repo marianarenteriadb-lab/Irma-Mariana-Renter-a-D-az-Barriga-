@@ -15,15 +15,19 @@ This project combines mobility and economic datasets to uncover patterns that im
 ## 📊 Visual Insights
 
 <p align="center">
-  <img src="heatmap.png" width="400"/>
-  <img src="traffic_gdp.png" width="400"/>
+  <img src="boxplot_delay.png" width="400"/>
+  <img src="gdp_distribution.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="traffic_vs_gdp.png" width="500"/>
 </p>
 
 ---
 
 ## 🔍 What I Did
 
-✔ Data cleaning & preprocessing (Pandas)  
+✔ Data cleaning & preprocessing (Python, Pandas)  
 ✔ Merged traffic + economic datasets  
 ✔ Exploratory Data Analysis (EDA)  
 ✔ Correlation analysis across key indicators  
