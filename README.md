@@ -1,38 +1,76 @@
-# 🌍 Urban Mobility & Economic Analysis
-
-### 📊 Data Analysis Project | Python
+<h1 align="center">🌍 Urban Mobility & Economic Analysis</h1>
+<p align="center">
+  <i>Data Analysis Project • Python • Economic Insights</i>
+</p>
 
 ---
 
 ## 🧠 Overview
-Analysis of the relationship between urban traffic congestion and economic indicators across cities.
+Exploring how urban traffic congestion correlates with economic performance across cities.
+
+This project combines mobility and economic datasets to uncover patterns that impact productivity, efficiency, and urban development.
 
 ---
 
-## 🔍 What I did
-- Data cleaning with Pandas  
-- Merged traffic & economic datasets  
-- Exploratory Data Analysis (EDA)  
-- Correlation analysis  
+## 📊 Visual Insights
+
+<p align="center">
+  <img src="heatmap.png" width="400"/>
+  <img src="traffic_gdp.png" width="400"/>
+</p>
 
 ---
 
-## 📈 Key Insights
-- Traffic congestion shows patterns linked to economic activity  
-- Some cities have high congestion but low economic efficiency  
-- Mobility inefficiencies can impact productivity  
+## 🔍 What I Did
+
+✔ Data cleaning & preprocessing (Pandas)  
+✔ Merged traffic + economic datasets  
+✔ Exploratory Data Analysis (EDA)  
+✔ Correlation analysis across key indicators  
 
 ---
 
-## 🛠 Tools
-Python • Pandas • Matplotlib
+## 📈 Key Findings
+
+→ Traffic congestion is linked to economic activity patterns  
+→ Some cities show high congestion with low economic efficiency  
+→ Mobility inefficiencies can reflect deeper structural issues  
+→ Traffic data can act as a proxy for economic performance  
+
+---
+
+## 📌 Business Perspective
+
+Urban mobility is not just a transportation issue — it is an economic signal.
+
+This analysis can support:
+- Smarter urban planning  
+- Transportation optimization  
+- Data-driven public policy  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  Python • Pandas • Matplotlib
+</p>
 
 ---
 
 ## 📁 Project Files
-- Notebook: `S5 ladb_mobility_economy_project_student.ipynb`
+
+`S5 ladb_mobility_economy_project_student.ipynb`
 
 ---
 
-## 🎯 Takeaway
-Urban mobility is not just a transportation issue — it's a key economic signal.
+## 🎯 Final Insight
+
+Better mobility = better economic efficiency.  
+Data reveals where cities are losing productivity — and where to act.
+
+---
+
+<p align="center">
+  <i>Built with a data-driven mindset and a focus on real-world impact.</i>
+</p>
